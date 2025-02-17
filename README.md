@@ -55,3 +55,10 @@ Promote development in towns with lower sales activity to stimulate the real est
 Tailor marketing strategies to the specific needs and demographics of each town. For example, focus on luxury buyers in high-value towns like Greenwich and affordable housing in lower-value towns.
 
 Implement incentives for first-time homebuyers or affordable housing programs in towns with lower sales and assessed values to stimulate the market.
+
+#### Code and Data
+The full analysis code can be found in the Jupyter Notebook: real_estate_analysis.ipynb.
+
+The dataset used for this analysis is available in : <a href="https://catalog.data.gov/dataset/real-estate-sales-2001-2018">RE_DATA</a>
+
+
