@@ -57,8 +57,8 @@ Tailor marketing strategies to the specific needs and demographics of each town.
 Implement incentives for first-time homebuyers or affordable housing programs in towns with lower sales and assessed values to stimulate the market.
 
 #### Code and Data
-The full analysis code can be found in the Jupyter Notebook: real_estate_analysis.ipynb.
+The full analysis code can be found in the Jupyter Notebook: <a href="https://github.com/marvellousekpen/Real_Estate/blob/main/Real_estate.ipynb">View My Code</a>
 
-The dataset used for this analysis is available in : <a href="https://catalog.data.gov/dataset/real-estate-sales-2001-2018">RE_DATA</a>
+The dataset used for this analysis is available in : <a href="https://catalog.data.gov/dataset/real-estate-sales-2001-2018">RE DATA</a>
 
 
