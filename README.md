@@ -39,7 +39,7 @@ Single-family homes were the most sold property type, accounting for 67.45% of t
 4. Assessed Value vs. Sale Amount
 A weak correlation was found between assessed values and sale amounts, indicating that assessed values are not a reliable predictor of sale prices.
 
-Assessed values have grown at an average rate of 5.62% per year, with the highest growth observed in Public Utility at 300.00%.
+ Assessed values have grown at an average rate of 5.62% per year, with the highest growth observed in Public Utility at 300.00%.
 
 #### Recommendations
 Buyers can focus on single-family homes if looking for a property type with high resale activity.
